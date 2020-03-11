@@ -1,0 +1,26 @@
+body {
+  background-color: #DAE3E3;
+}
+
+header {
+  font-family: cursive;
+  color: #DC5119;
+  }
+
+p {
+  font-family:cursive;
+  color:#616767;
+}
+
+form {
+  color:#616767;
+  background-color:#0F9294;
+}
+
+section {
+  font-family: cursive;
+  color: #DC5119;
+}
+link {
+  color: white;
+}
