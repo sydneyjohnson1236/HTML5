@@ -7,8 +7,23 @@ header {
   color: #DC5119;
   }
 
-p {
+h1 {
   font-family:cursive;
+  color: #DC5119;
+}
+
+h2 {
+  font-family:cursive;
+  color: #045952;
+}
+
+ul {
+  font-family: cursive;
+  background-color: #a7bdbd;
+}
+
+p {
+  font-family:serif;
   color:#616767;
 }
 
@@ -18,9 +33,11 @@ form {
 }
 
 section {
-  font-family: cursive;
+  font-family: serif;
   color: #DC5119;
 }
-link {
+
+a {
   color: white;
+  background-color: #7e9e9e;
 }
