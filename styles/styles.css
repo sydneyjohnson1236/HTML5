@@ -4,11 +4,13 @@ body {
 
 header {
   font-family: cursive;
+  font-weight: bold;
   color: #DC5119;
   }
 
 h1 {
   font-family:cursive;
+  font-weight: bold;
   color: #DC5119;
 }
 
@@ -25,7 +27,6 @@ nav {
 ul {
   list-style-type:none;
   margin:0;
-  border-style: double;
   font-family: cursive;
   background-color: #a7bdbd;
 }
