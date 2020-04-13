@@ -23,27 +23,28 @@ section > h1{
 }
 
 h2{
-  font-family:sans-serif;
+  font-family: serif;
   font-weight: bold;
   text-height: 3;
   color: #AB987A;
 }
 
 section > h2{
-  font-family:sans-serif;
+  font-family:serif;
   font-weight: bold;
   text-height: 3;
   color: #AB987A;
 }
 
 nav {
-  font-family: sans-serif;
+  font-family: serif;
   text-align: left;
-  text-height: 4
+  text-height: 4;
 }
 
 a[href] {
   font-weight: bold;
+  color: #F5F5F5;
 }
 
 ul {
@@ -51,7 +52,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  font-family: sans-serif;
+  font-family: serif;
   background-color: #FF533D;
 }
 
@@ -72,12 +73,13 @@ link {
 }
 
 p{
-  font-family:serif;
+  font-family: serif;
   color:#F5F5F5;
+  text-height: 3;
 }
 
 form {
-  background-color:#F5F5F5;
+  background-color:#FF533D;
   color: #0F1626;
   line-height: 2;
   border-width: thick;
@@ -85,6 +87,7 @@ form {
 }
 
 footer {
-  color: #F5F5F5;
+  color: #AB987A;
   text-height: 2;
+  background-color: #FF533D;
 }
