@@ -56,6 +56,11 @@ ul {
   background-color: #FF533D;
 }
 
+nav ul {
+  display: grid;
+  grid-template-columns: 500px;
+}
+
 li a {
   display: block;
   color: #F5F5F5;
@@ -79,14 +84,16 @@ p{
 }
 
 form {
+  display: grid;
+  grid-template-columns:200px 200px;
   background-color:#FF533D;
   color: #0F1626;
-  line-height: 2;
-  border-width: thick;
-  border-color: #AB987A;
 }
 
 footer {
+  display: grid;
+  grid-template-columns: 150px 150px;
+  align-content: center;
   color: #AB987A;
   text-height: 2;
   background-color: #FF533D;
