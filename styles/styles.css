@@ -2,7 +2,6 @@ header{
   background-color: #0F1626;
   color: #F5F5F5;
   font-family: cursive;
-  text-height: 15;
   text-align: center;
 }
 
@@ -12,34 +11,29 @@ body {
 
 h1 {
   font-family: cursive;
-  text-height: 5;
   color: #AB987A;
 }
 
 section > h1{
   font-family: cursive;
-  text-height: 5;
   color: #AB987A;
 }
 
 h2{
   font-family: serif;
   font-weight: bold;
-  text-height: 3;
   color: #AB987A;
 }
 
 section > h2{
   font-family:serif;
   font-weight: bold;
-  text-height: 3;
   color: #AB987A;
 }
 
 nav {
   font-family: serif;
   text-align: left;
-  text-height: 4;
 }
 
 a[href] {
@@ -80,7 +74,6 @@ link {
 p{
   font-family: serif;
   color:#F5F5F5;
-  text-height: 3;
 }
 
 form {
@@ -95,6 +88,5 @@ footer {
   grid-template-columns: 150px 150px;
   align-content: center;
   color: #AB987A;
-  text-height: 2;
   background-color: #FF533D;
 }
